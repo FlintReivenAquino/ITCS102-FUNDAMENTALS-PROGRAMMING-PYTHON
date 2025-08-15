@@ -1,3 +1,4 @@
-name = input("Enter a string --> ")
+name = input("Enter you name--> ")
+
 
 print("Your name has ", len(name))
